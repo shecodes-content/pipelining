@@ -7,7 +7,7 @@ Packaging and mailing consitst of a number of separate steps:
 - folding a box
 - wrapping the gadget in bubble wrap
 - putting the gadget into the box, along with a manual
-- clsoing the box and secure it with sticky tape
+- closing the box and secure it with sticky tape
 - putting on an address label (with a digital stamp)
 - carrying the box to the post-office
 
